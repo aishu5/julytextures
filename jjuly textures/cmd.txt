@@ -1,0 +1,6 @@
+C:\Users\ptech-user\AppData\Roaming\Unity\Asset Store-5.x
+D:\Unity\Asset Store-5.x
+
+
+
+mklink /D "C:\Users\ptech-user\AppData\Roaming\Unity\Asset Store-5.x" "D:\Unity\Asset Store-5.x"
